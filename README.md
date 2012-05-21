@@ -1,4 +1,0 @@
-deltaintech
-===========
-
-Deltaintech repository
